@@ -2,6 +2,7 @@
 A passionate Software Developer, AI/ML enthusiast, and Cloud Practitioner! 🌟
 
 
+
 **🚀 About Me**
 
 
@@ -9,9 +10,10 @@ I’m currently pursuing B.Tech in Computer Science at KL University 🏫. My in
 
 **I Love**
 
-
 🌐 **Web Development** (Django, React, HTML/CSS, Servlets)
+
 🤖 **AI/ML** (TensorFlow, PyTorch, Scikit-learn)
+
 ☁️ **Cloud Computing** (AWS - EC2, S3, Lambda)
 
 
@@ -19,13 +21,15 @@ I’m currently pursuing B.Tech in Computer Science at KL University 🏫. My in
 
 
 🛠️ AWS Cloud Practitioner CLF-C02
+
 📊 Data Visualization with Python
+
 🤹‍♂️ Getting Started with Git and GitHub
+
 🏅 CodeChef Competitor
+
 🏅 Hackerrank C# Basics
 
-
-**🔥 Tech Stack & Tools**
 
 **Languages & Frameworks:** Python, Django, AI/ML, Java
 
