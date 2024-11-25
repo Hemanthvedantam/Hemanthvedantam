@@ -9,8 +9,8 @@ I am a passionate AI Enthusiast, currently pursuing a B.Tech in Computer Science
 💻 Web Development: Frontend (HTML, CSS, JS) and Backend (Django, React).
 
 🏆 **Certifications**
-AWS Cloud Practitioner CLF-C02
-Data Visualization with Python
+AWS Cloud Practitioner CLF-C02, 
+Data Visualization with Python, 
 Git & GitHub Fundamentals
 
 🌟 **Projects**
