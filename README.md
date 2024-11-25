@@ -17,6 +17,8 @@ I’m currently pursuing B.Tech in Computer Science at KL University 🏫. My in
 ☁️ **Cloud Computing** (AWS - EC2, S3, Lambda)
 
 
+
+
 **🏆  Certifications**
 
 
@@ -31,7 +33,11 @@ I’m currently pursuing B.Tech in Computer Science at KL University 🏫. My in
 🏅 Hackerrank C# Basics
 
 
+
+
 **Languages & Frameworks:** Python, Django, AI/ML, Java
+
+
 
 
 **🌟 Highlighted Projects**
@@ -46,8 +52,12 @@ A Python-based recommendation engine that suggests movies using collaborative fi
 **Tech Stack:** Pandas, Scikit-learn, TensorFlow
 
 
+
+
 🚀 **Skills**
 Python | Django | AWS | AI/ML | React | Java
+
+
 
 
 **📫 Let's Connect!**
