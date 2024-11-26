@@ -37,3 +37,7 @@
 ![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemanthvedantam&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthvedantam&layout=compact&theme=radical)
 
+
+<hr style="border: 1px solid #ccc;"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hemanthvedantam&color=blue)
