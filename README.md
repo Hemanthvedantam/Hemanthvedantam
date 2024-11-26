@@ -1,4 +1,4 @@
-👋 **Hi, I'm Hemanth Vedantam**
+<h1 align="center">Hi 👋, I'm Hemanth Vedantam</h1>
 
 
 A passionate Software Developer, AI/ML enthusiast, and Cloud Practitioner! 🌟
