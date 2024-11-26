@@ -27,4 +27,13 @@
 ![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
+
+
+<hr style="border: 1px solid #ccc;"/>
+
+## 📊 GitHub Stats:
+![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemanthvedantam&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthvedantam&layout=compact&theme=radical)
 
