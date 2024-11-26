@@ -27,3 +27,8 @@ A passionate Software Developer, AI/ML enthusiast, and Cloud Practitioner! 🌟
 **📫 Let's Connect!**
 
 **Linkedin** : https://www.linkedin.com/in/hemanth-vedantam-813455280/
+
+
+---
+
+**Tech Stack**
