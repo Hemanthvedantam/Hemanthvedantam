@@ -1,5 +1,5 @@
 <h1 align="center">Hemanth Vedantam</h1>
-<p align="center">AI/ML Engineer &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; AWS Cloud</p>
+<p align="center">AI/ML Engineer </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemanth-vedantam-813455280/">
