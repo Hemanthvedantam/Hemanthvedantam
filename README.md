@@ -5,8 +5,6 @@
   <a href="mailto:hemanthvedantam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/hemanthvedantam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Hemanthvedantam&style=for-the-badge&color=0A66C2"/>
 </p>
 
 ---
@@ -38,13 +36,3 @@ AI & ML Engineer experienced in building agentic AI workflows, LLM-powered appli
 | [**Destiny.ai**](https://github.com/Hemanthvedantam) | AI travel intelligence platform with KNN personalization and NLP sentiment analysis |
 | [**Text Summarization using LLM**](https://github.com/Hemanthvedantam) | Document summarizer powered by a locally hosted Ollama LLM |
 | [**AI Career Advisor**](https://github.com/Hemanthvedantam) | LLM-driven platform for personalized career roadmaps and resume gap analysis |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemanthvedantam&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthvedantam&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="165"/>
-</p>
