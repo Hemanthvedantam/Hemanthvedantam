@@ -290,11 +290,11 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 ## 🟣 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hemanthvedantam&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E6D9FF&ring_color=6E00FF" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Hemanthvedantam&theme=radical&hide_border=true&background=0D0221&ring=6E00FF&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hemanthvedantam&theme=radical&hide_border=true" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthvedantam&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E6D9FF" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthvedantam&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E6D9FF&cache_seconds=1800" width="60%"/>
 
 </div>
 
@@ -322,15 +322,7 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 
 <div align="center">
 
-## 🟣 Contribution Snake
 
-<!-- Removed for now: this image 404s until the "snk" GitHub Action has run once
-     on this repo to generate github-contribution-grid-snake-dark.svg on an
-     `output` branch. Once that workflow has run, restore this line:
-<img src="https://raw.githubusercontent.com/Hemanthvedantam/Hemanthvedantam/output/github-contribution-grid-snake-dark.svg" width="100%"/>
--->
-
-</div>
 
 ---
 
