@@ -6,8 +6,8 @@
 
 <br/>
 
-![AI Passionate](https://img.shields.io/badge/Focus-AI%20%26%20ML%20Engineering-6E00FF?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-A78BFA?style=flat-square)
+![AI Passionate]
+![Location]
 
 <br/>
 
