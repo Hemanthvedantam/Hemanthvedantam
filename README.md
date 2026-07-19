@@ -6,21 +6,21 @@
 
 <br/>
 
-![AI Passionate](https://img.shields.io/badge/Focus-AI%20%26%20ML%20Engineering-6E00FF?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-A78BFA?style=flat-square&logo=googlemaps&logoColor=white)
+![AI Passionate](https://img.shields.io/badge/Focus-AI%20%26%20ML%20Engineering-6E00FF?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-A78BFA?style=flat-square)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthvedantam/)
-[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanthvedantam@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemanthvedantam)
-[![Instagram](https://img.shields.io/badge/Instagram-6E00FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hemanthvedantam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge)](https://www.linkedin.com/in/hemanthvedantam/)
+[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge)](mailto:hemanthvedantam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge)](https://github.com/Hemanthvedantam)
+[![Instagram](https://img.shields.io/badge/Instagram-6E00FF?style=for-the-badge)](https://www.instagram.com/hemanthvedantam/)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hemanthvedantam&style=flat-square&color=6e00ff&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Hemanthvedantam?style=flat-square&color=8b5cf6&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/Hemanthvedantam?style=flat-square&color=a78bfa&label=STARS&logo=github)
+![Followers](https://img.shields.io/github/followers/Hemanthvedantam?style=flat-square&color=8b5cf6&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Hemanthvedantam?style=flat-square&color=a78bfa&label=STARS)
 
 </div>
 
@@ -63,7 +63,7 @@ Currently:    Building GenAI-powered tools and personalization systems
 <div align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 </div>
 
 **Backend & Databases**
@@ -71,8 +71,8 @@ Currently:    Building GenAI-powered tools and personalization systems
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
 
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 </div>
 
 **Cloud, DevOps & Tooling**
@@ -80,7 +80,7 @@ Currently:    Building GenAI-powered tools and personalization systems
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git&theme=dark" />
 
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square)
 </div>
 
 ---
@@ -261,11 +261,11 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 
 **AWS**
 
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-6E00FF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-6E00FF?style=for-the-badge)
 
 **Oracle**
 
-![Oracle GenAI Certified](https://img.shields.io/badge/Oracle-GenAI%20Certified-A78BFA?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle GenAI Certified](https://img.shields.io/badge/Oracle-GenAI%20Certified-A78BFA?style=for-the-badge)
 
 <sub>Add additional certifications (NPTEL, Cisco, etc.) here as you earn them, grouped by provider with matching badges.</sub>
 
@@ -276,10 +276,10 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 ## 🟣 Coding Profiles
 
 <!-- TODO: Replace with your real handles/stats -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6E00FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Hemanthvedantam)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/Hemanthvedantam)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Hemanthvedantam)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-6E00FF?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Hemanthvedantam)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6E00FF?style=for-the-badge)](https://leetcode.com/Hemanthvedantam)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-8B5CF6?style=for-the-badge)](https://geeksforgeeks.org/user/Hemanthvedantam)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-A78BFA?style=for-the-badge)](https://hackerrank.com/Hemanthvedantam)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-6E00FF?style=for-the-badge)](https://codechef.com/users/Hemanthvedantam)
 
 </div>
 
@@ -304,7 +304,7 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 
 ## 🟣 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hemanthvedantam&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<img src="https://github-trophies.vercel.app/?username=Hemanthvedantam&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
@@ -324,10 +324,11 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 
 ## 🟣 Contribution Snake
 
-<!-- This image only appears once the "snk" GitHub Action is set up on this repo
-     to generate github-contribution-grid-snake-dark.svg on an `output` branch.
-     See the setup steps in the chat response. -->
+<!-- Removed for now: this image 404s until the "snk" GitHub Action has run once
+     on this repo to generate github-contribution-grid-snake-dark.svg on an
+     `output` branch. Once that workflow has run, restore this line:
 <img src="https://raw.githubusercontent.com/Hemanthvedantam/Hemanthvedantam/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+-->
 
 </div>
 
@@ -365,10 +366,10 @@ Open To:
 
 ## 🟣 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-6E00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanthvedantam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthvedantam/)
-[![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemanthvedantam)
-[![Instagram](https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hemanthvedantam/)
+[![Gmail](https://img.shields.io/badge/Gmail-6E00FF?style=for-the-badge)](mailto:hemanthvedantam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge)](https://www.linkedin.com/in/hemanthvedantam/)
+[![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge)](https://github.com/Hemanthvedantam)
+[![Instagram](https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge)](https://www.instagram.com/hemanthvedantam/)
 
 </div>
 
