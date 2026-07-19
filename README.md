@@ -290,7 +290,7 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 ## 🟣 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hemanthvedantam&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E6D9FF&ring_color=6E00FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanthvedantam&theme=radical&hide_border=true&background=0D0221&ring=6E00FF&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Hemanthvedantam&theme=radical&hide_border=true&background=0D0221&ring=6E00FF&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <br/>
 
@@ -314,7 +314,7 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 
 ## 🟣 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanthvedantam&theme=redical&bg_color=0D0221&color=A78BFA&line=6E00FF&point=E6D9FF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanthvedantam&theme=radical&bg_color=0D0221&color=A78BFA&line=6E00FF&point=E6D9FF&hide_border=true" width="100%"/>
 
 </div>
 
@@ -324,6 +324,9 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 
 ## 🟣 Contribution Snake
 
+<!-- This image only appears once the "snk" GitHub Action is set up on this repo
+     to generate github-contribution-grid-snake-dark.svg on an `output` branch.
+     See the setup steps in the chat response. -->
 <img src="https://raw.githubusercontent.com/Hemanthvedantam/Hemanthvedantam/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
