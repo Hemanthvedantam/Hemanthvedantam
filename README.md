@@ -11,16 +11,16 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge)](https://www.linkedin.com/in/hemanthvedantam/)
-[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge)](mailto:hemanthvedantam@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge)](https://github.com/Hemanthvedantam)
-[![Instagram](https://img.shields.io/badge/Instagram-6E00FF?style=for-the-badge)](https://www.instagram.com/hemanthvedantam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthvedantam/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanthvedantam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemanthvedantam)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hemanthvedantam/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hemanthvedantam&style=flat-square&color=6e00ff&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Hemanthvedantam?style=flat-square&color=8b5cf6&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Hemanthvedantam?style=flat-square&color=a78bfa&label=STARS)
+![](https://komarev.com/ghpvc/?username=Hemanthvedantam&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/Hemanthvedantam?style=for-the-badge&logo=github&color=7C3AED&label=Followers)
+![](https://img.shields.io/github/stars/Hemanthvedantam?style=for-the-badge&logo=github&color=8B5CF6&label=Stars)
 
 </div>
 
@@ -261,11 +261,11 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 
 **AWS**
 
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-6E00FF?style=for-the-badge)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Oracle**
 
-![Oracle GenAI Certified](https://img.shields.io/badge/Oracle-GenAI%20Certified-A78BFA?style=for-the-badge)
+![Oracle GenAI Certified](https://img.shields.io/badge/Oracle-GenAI%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <sub>Add additional certifications (NPTEL, Cisco, etc.) here as you earn them, grouped by provider with matching badges.</sub>
 
@@ -276,11 +276,9 @@ Worked on a credit card fraud detection project, applying exploratory data analy
 ## 🟣 Coding Profiles
 
 <!-- TODO: Replace with your real handles/stats -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6E00FF?style=for-the-badge)](https://leetcode.com/Hemanthvedantam)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-8B5CF6?style=for-the-badge)](https://geeksforgeeks.org/user/Hemanthvedantam)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-A78BFA?style=for-the-badge)](https://hackerrank.com/Hemanthvedantam)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-6E00FF?style=for-the-badge)](https://codechef.com/users/Hemanthvedantam)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hemanthvedantam/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Hemanthvedantam)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Hemanthvedantam)
 </div>
 
 ---
@@ -359,8 +357,8 @@ Open To:
 ## 🟣 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-6E00FF?style=for-the-badge)](mailto:hemanthvedantam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge)](https://www.linkedin.com/in/hemanthvedantam/)
-[![GitHub](https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge)](https://github.com/Hemanthvedantam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthvedantam/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hemanthvedantam)
 [![Instagram](https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge)](https://www.instagram.com/hemanthvedantam/)
 
 </div>
